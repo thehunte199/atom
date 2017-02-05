@@ -1,0 +1,34 @@
+"*":
+  "atom-material-ui":
+    colors:
+      abaseColor: "#5c6bc0"
+      genAccent: true
+      predefinedColor: "Indigo"
+    tabs:
+      compactTabs: true
+      tintedTabBar: true
+    ui:
+      panelContrast: true
+  core:
+    telemetryConsent: "no"
+    themes: [
+      "atom-material-ui"
+      "solarized-dark-syntax"
+    ]
+  editor:
+    fontSize: 15
+  "exception-reporting":
+    userId: "c699a61f-8819-54b2-77a9-bcd7546d24d5"
+  "linter-gcc":
+    execPath: "g++.exe"
+  minimap:
+    absoluteMode: true
+  "package-sync":
+    createOnChange: true
+    forceOverwrite: true
+  "seti-ui": {}
+".editorconfig.source":
+  editor:
+    showIndentGuide: true
+    softWrap: true
+    tabLength: 4
