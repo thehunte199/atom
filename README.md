@@ -1,0 +1,2 @@
+# atom
+my atom setup
