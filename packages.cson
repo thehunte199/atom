@@ -6,8 +6,6 @@ packages: [
   "file-icons"
   "language-gitignore"
   "linter"
-  "linter-gcc"
-  "linter-python-pep8"
   "MagicPython"
   "markdown-writer"
   "minimap"
